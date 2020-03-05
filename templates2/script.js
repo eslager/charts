@@ -1,6 +1,6 @@
   function drawLineChart() {
     var jsonData = $.ajax({
-        url: 'covid.json',
+        url: 'https://eslager.github.io/charts/templates2/covid.json',
         dataType: 'json',
       }).done(function (results) {
 
