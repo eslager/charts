@@ -1,0 +1,40 @@
+{
+"packets": [
+    {
+    "country": "China",
+    "mortality_rate": 3.9
+    }
+    {
+    "country": "South Korea",
+    "mortality_rate": 0.3
+    }
+    {
+    "country": "Italy",
+    "mortality_rate": 3.8
+    }
+    {
+    "country": "Iran",
+    "mortality_rate": 3.7
+    }
+    {
+    "country": "Japan",
+    "mortality_rate": 1.9
+    }
+    {
+    "country": "France",
+    "mortality_rate": 1.6
+    }
+    {
+    "country": "Spain",
+    "mortality_rate": 0.9
+    }
+    {
+    "country": "United States",
+    "mortality_rate": 6.9
+    }
+    {
+    "country": "Hong Kong",
+    "mortality_rate": 1.9
+    }
+]
+}
