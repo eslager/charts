@@ -6,8 +6,8 @@
 
         var labels = [], data=[];
            results["packets"].forEach(function(packet) {
-             labels.push(String(packet.country));
-             data.push(Number(packet.mortality_rate));
+             labels.push(packet.country);
+             data.push(packet.mortality_rate);
            });
 
         // var mortData = {
